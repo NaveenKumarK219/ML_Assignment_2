@@ -12,14 +12,14 @@ The goal of this project is to build a robust machine learning pipeline to class
 
 ## 3. Models Used & Comparison 
 
-| ML Model Name | Accuracy | AUC | Precision | Recall | F1 | MCC |
-|---|---|---|---|---|---|---|
-| Logistic Regression | 0.97 | 0.99 | 0.97 | 0.98 | 0.97 | 0.94 |
-| Decision Tree | 0.94 | 0.93 | 0.94 | 0.94 | 0.94 | 0.88 |
-| kNN | 0.96 | 0.98 | 0.96 | 0.95 | 0.96 | 0.92 |
-| Naive Bayes | 0.93 | 0.98 | 0.93 | 0.91 | 0.92 | 0.86 |
-| Random Forest | 0.98 | 0.99 | 0.98 | 0.98 | 0.98 | 0.95 |
-| XGBoost | 0.97 | 0.99 | 0.97 | 0.97 | 0.97 | 0.94 |
+| ML Model Name | Accuracy | AUC  | Precision | Recall | F1   | MCC  |
+|---|----------|------|-----------|--------|------|------|
+| Logistic Regression | 0.98     | 0.99 | 0.98      | 0.98   | 0.98 | 0.96 |
+| Decision Tree | 0.99     | 0.98 | 0.98      | 0.98   | 0.98 | 0.98 |
+| kNN | 0.97     | 0.99 | 0.97      | 0.97   | 0.97 | 0.94 |
+| Naive Bayes | 0.95     | 0.98 | 0.95      | 0.95   | 0.95 | 0.90 |
+| Random Forest | 0.99     | 0.99 | 0.99      | 0.99   | 0.99 | 0.98 |
+| XGBoost | 0.99     | 0.99 | 0.99      | 0.99   | 0.99 | 0.98 |
 
 
 ## 4. Observations 
